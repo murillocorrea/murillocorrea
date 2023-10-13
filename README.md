@@ -5,7 +5,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/murillocorrea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233b88c3?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://instagram.com/murillo.h.correa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%233b88c3?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="mailto:murillocorrea0310@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%233b88c3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%233b88c3?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
