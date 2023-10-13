@@ -22,3 +22,5 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-090b10?style=for-the-badge&logo=jupyter&labelColor=090b10)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b88c3&height=120&section=footer"/>
+
+
